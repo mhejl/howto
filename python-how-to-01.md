@@ -1,5 +1,7 @@
 # Jak začít s Pythonem
 
+## Správa závislostí projektu
+
 Pokud chceme začít programovat a víme, že se neobejdeme bez knihoven třetích stran, je vhodné takový projekt izolovat a tím zajistit, že knihovny nebudou instalovány globálně, což by nám mohlo později dělat problémy, pokud bychom potřebovali pro různé projekty, různé verze knihoven. 
 
 Jak vytvořit izolované tzv. virtuální prostředí pro náš projekt, je obsahem tohoto krátkého článku.
